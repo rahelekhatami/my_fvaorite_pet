@@ -1,0 +1,31 @@
+nav {
+  height: 50px;
+  background-color: rgb(163, 221, 216);
+}
+.inline-block{
+  display: inline-block;
+  padding: 15px;
+  color: orange;
+  margin-left: 5px;
+  background-color: rgb(36, 48, 48)
+
+}
+.left{
+  height: 200px;
+  display: inline-block;
+  background-color: lightblue;
+  width: 29%;
+  vertical-align: top;
+
+}
+.left_second{
+  height: 500px;
+  display: inline-block;
+  background-color: rgb(225, 173, 230);
+  width: 69%;
+  padding-inline: 15px;
+
+}
+
+
+
